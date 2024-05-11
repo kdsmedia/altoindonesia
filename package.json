@@ -19,9 +19,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zeeoneofficial/Telebot.git"
+        "url": "git+https://github.com/kdsmedia/altoindonesia.git"
     },
-    "author": "zeeoneofc",
+    "author": "altomedia",
     "license": "MIT",
     "dependencies": {
         "axios": "^0.24.0",
